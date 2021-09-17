@@ -4,7 +4,7 @@ import PushNotifications
 
 public class SwiftPusherBeamerPlugin: NSObject, FlutterPlugin {
 
-  var instaceId : String?
+   var instanceId : String?
   var beamsClient = PushNotifications.shared
 
   public static func register(with registrar: FlutterPluginRegistrar) {
