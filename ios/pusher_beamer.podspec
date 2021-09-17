@@ -6,9 +6,7 @@ Pod::Spec.new do |s|
   s.name             = 'pusher_beamer'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter project.'
-  s.description      = <<-DESC
-A new Flutter project.
-                       DESC
+  s.description      = <<-DESC A new Flutter project.DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Himanshu Sharma' => 'himanshu648594@gmail.com' }
@@ -22,5 +20,5 @@ A new Flutter project.
   s.swift_version = '5.0'
 
   # Dependencies
-  s.dependency 'PushNotifications', '~> 3.0.4'
+  s.dependency 'PushNotifications', '~> 4.0.0'
 end
