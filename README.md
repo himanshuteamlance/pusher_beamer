@@ -1,6 +1,6 @@
 # pusher_beamer
 
-A new Flutter project.
+Unofficial Pusher Beams Flutter client library supported for iOS and Android.
 
 ## Getting Started
 
